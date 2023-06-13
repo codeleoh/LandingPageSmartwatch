@@ -41,8 +41,12 @@ button {
 }
 
 footer {
-    color: #f3f2f5;
     text-align: center;
     font-style: italic;
     margin:50px;
+}
+
+#anco {
+    text-decoration:none;
+    color:#f3f2f5;
 }
